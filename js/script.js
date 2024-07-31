@@ -3,10 +3,10 @@ var images = [];	// Images Array
 var time = 1000;	// Time Between Switch
 	 
 // Image List
-images[0] = "../tugasrevou/foto/nature-7189418_640.jpg";
-images[1] = "../tugasrevou/foto/nature-6799071_640.jpg";
-images[2] = "../tugasrevou/foto/nature-2990060_640.jpg";
-images[3] = "../tugasrevou/foto/mountains-6544522_640.jpg";
+images[0] = "foto/nature-7189418_640.jpg";
+images[1] = "foto/nature-6799071_640.jpg";
+images[2] = "foto/nature-2990060_640.jpg";
+images[3] = "foto/mountains-6544522_640.jpg";
 
 // Change Image
 function changeImg(){
